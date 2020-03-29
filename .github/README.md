@@ -32,10 +32,12 @@ As a result, we're going to spend _a lot_ of time here before moving on to anyth
 2. [Check your understanding of CSS specificity in this challenge](https://codepen.io/lambdaschool/pen/rddroJ)
 3. [Mark up the text for this Bakery, see how semantic you can make it](https://codepen.io/lambdaschool/pen/vaKejB)
 4. [Same bakery, new challenge. Using only CSS, attempt to accomplish the tasks in this CodePen](https://codepen.io/lambdaschool/pen/vaXWWG/?editors=0100)
-5. [Build a survey form](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
-6. [Build a product landing page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
-7. [Build a page of technical documentation](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page)
-8. [Build a personal portfolio page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage)
+5. [Complete Flexbox Froggy](https://flexboxfroggy.com/)
+6. [Complete CSS Grid Garden](https://cssgridgarden.com/)
+7. [Build a survey form](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
+8. [Build a product landing page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
+9. [Build a page of technical documentation](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page)
+10. [Build a personal portfolio page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage)
 
 ## Reference Documentation
 - [MDN: HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
