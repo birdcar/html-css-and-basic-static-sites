@@ -10,7 +10,7 @@ Now that you have a high-level understanding of how both computers and the inter
 
 As a result, we're going to spend _a lot_ of time here before moving on to anything else. No matter what language you learn, what your role winds up being, or where you work: HTML and CSS will always be something you need.
 
-### Resources
+## Resources
 
 1. [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud001)
     - A note on the above :point_up:: Udacity has paid tracks that I find to be fairly hit-and-miss when it comes to both content and the way it prepares people. Having said that, they _do_ have some pretty great free courses that we'll refer to along the way. You can create an account at the site and then enroll in _just_ this free course to take it, and that will be the first and best place to start.
@@ -26,7 +26,7 @@ As a result, we're going to spend _a lot_ of time here before moving on to anyth
 8. [**BONUS:** Advanced CSS & Sass](https://www.udemy.com/share/101WkwAkcSdlZSRQ==/)
     - I, unfortunately, can't provide you credentials for this one. It's a _really_ great course, and if it's on sale (which Udemy does like every week) it should be around $11. I definitely recommend taking it if you can.
 
-### Projects (Still in the process of adding things here, mind the mess)
+## Projects (Still in the process of adding things here, mind the mess)
 
 1. [Mark up the text in this CodePen using Semantic HTML](https://codepen.io/lambdaschool/pen/wxgdeO?editors=1000)
 2. [Check your understanding of CSS specificity in this challenge](https://codepen.io/lambdaschool/pen/rddroJ)
@@ -36,3 +36,7 @@ As a result, we're going to spend _a lot_ of time here before moving on to anyth
 6. [Build a product landing page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
 7. [Build a page of technical documentation](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page)
 8. [Build a personal portfolio page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage)
+
+## Reference Documentation
+- [MDN: HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [MDN: CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
