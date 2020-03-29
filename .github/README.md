@@ -40,5 +40,6 @@ As a result, we're going to spend _a lot_ of time here before moving on to anyth
 10. [Build a personal portfolio page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage)
 
 ## Reference Documentation
+
 - [MDN: HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [MDN: CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
